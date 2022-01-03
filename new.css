@@ -1,0 +1,267 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    display: flex;
+    background-color: #e0f7ff;
+}
+
+
+.logo{
+    height: 90px;
+    width: 225px;
+    background-image: url("R.png");
+    background-size: cover;
+    margin-left: 75px;
+    display: flex;
+}
+
+.logo2{
+    height: 59px;
+    margin-left: 22px;
+    margin-top: 20px;
+    width: 70px;
+    background-image: url("pop.png");
+    display: flex;
+    background-size: cover;
+}
+
+.box{
+    display: flex;
+    margin: 100px 130px;
+    justify-content: space-between;
+}
+
+.box2{
+    display: flex;
+    margin: 100px 130px;
+    justify-content: space-between;
+}
+
+.box3{
+    display: flex;
+    margin: 100px 130px;
+    justify-content: space-between;
+}
+
+.box4{
+    display: flex;
+    margin: 100px 130px;
+    justify-content: space-between;
+}
+
+
+.time{
+    height: 130px;
+    width: 300px;
+    background-color: #7f7676;
+    display: flex;
+    border-radius: 27px;
+}
+
+.rajasthan{
+    height: 141px;
+    width: 300px;
+    background-color: #7f7676;
+    display: flex;
+    border-radius: 27px;
+}
+
+.hindustan{
+    height: 141px;
+    width: 300px;
+    background-color: #7f7676;
+    display: flex;
+    border-radius: 27px;
+}
+
+.amerujala{
+    height: 147px;
+    width: 300px;
+    background-color: #faa4a4;
+    display: flex;
+    border-radius: 27px;
+}
+
+.bhaskar{
+    height: 147px;
+    width: 300px;
+    background-color: #faa4a4;
+    display: flex;
+    border-radius: 27px;
+}
+
+.jagran{
+    height: 147px;
+    width: 300px;
+    background-color: #faa4a4;
+    display: flex;
+    border-radius: 27px;
+}
+
+.matra{
+    height: 147px;
+    width: 300px;
+    background-color: #7f7676;
+    display: flex;
+    border-radius: 27px;
+}
+
+.thanta{
+    height: 147px;
+    width: 300px;
+    background-color: #7f7676;
+    display: flex;
+    border-radius: 27px;
+}
+
+.eendu{
+    height: 147px;
+    width: 300px;
+    background-color: #7f7676;
+    display: flex;
+    border-radius: 27px;
+}
+
+.malyalm{
+    height: 147px;
+    width: 300px;
+    background-color: #7f7676;
+    display: flex;
+    border-radius: 27px;
+}
+
+
+.sandesh{
+    height: 147px;
+    width: 300px;
+    background-color: #7f7676;
+    display: flex;
+    border-radius: 27px;
+}
+
+.gujarat{
+    height: 147px;
+    width: 300px;
+    background-color: #7f7676;
+    display: flex;
+    border-radius: 27px;
+}
+
+
+
+.img1{
+    height: 55px;
+    margin-top: 33px;
+    width: 300px;
+    display: flex;
+    background-image: url("time.gif");
+    background-size: cover;
+}
+
+.img2{
+    height: 78px;
+    margin-top: 33px;
+    width: 300px;
+    display: flex;
+    background-image: url("oip.png");
+    background-size: cover;
+}
+
+.img3{
+    height: 78px;
+    margin-top: 33px;
+    width: 300px;
+    display: flex;
+    background-image: url("Hindustan.jpg");
+    background-size: cover;
+}
+
+.img4{
+    height: 46px;
+    margin-top:52px;
+    width: 288px;
+    display: flex;
+    background-image: url("amar.png");
+    background-size: cover;
+}
+
+.img5{
+    height: 110px;
+    margin-top:11px;
+    width: 288px;
+    display: flex;
+    background-image: url("Dainik.png");
+    background-size: cover;
+}
+
+.img6{
+    height: 63px;
+    margin-top:38px;
+    width: 288px;
+    display: flex;
+    background-image: url("jagran.png");
+    background-size: cover;
+}
+
+.img7{
+    height: 85px;
+    margin-top:31px;
+    width:300px;
+    display: flex;
+    background-image: url("mara.png");
+    background-size: cover;
+}
+
+.img8{
+    height: 57px;
+    margin-top:45px;
+    width:300px;
+    display: flex;
+    background-image: url("Daily_Thanthi.png");
+    background-size: cover;
+}
+
+.img9{
+    height: 80px;
+    margin-top:31px;
+    width:300px;
+    display: flex;
+    background-image: url("eenadu.png");
+    background-size: cover;
+}
+
+.img10{
+    height: 120px;
+    margin-top:14px;
+    width:234px;
+    margin-left: 33px;
+    display: flex;
+    background-image: url("malyalm.png");
+    background-size: cover;
+    border-radius: 14px;
+}
+
+.img11{
+    height: 70px;
+    margin-top:39px;
+    width:234px;
+    margin-left: 33px;
+    display: flex;
+    background-image: url("sandesh.png");
+    background-size: cover;
+}
+
+.img12{
+    height: 112px;
+    margin-top:17px;
+    width:234px;
+    margin-left: 33px;
+    display: flex;
+    background-image: url("gujratsamachar.png");
+    background-size: cover;
+    border-radius: 15px;
+}
+
